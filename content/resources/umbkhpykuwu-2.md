@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-401-introduction-to-housing-community-and-economic-development-fall-2015/4dff375d0b6e563c93efc6bdb7916fbe_uMbkHpyKuWU.vtt
+file: /media/courses/11-401-introduction-to-housing-community-and-economic-development-fall-2015/4dff375d0b6e563c93efc6bdb7916fbe_uMbkHpyKuWU.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
